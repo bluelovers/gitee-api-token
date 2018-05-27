@@ -1,0 +1,32 @@
+{
+  "name": "gitee-api-token",
+  "version": "1.0.1",
+  "description": "gitee api token",
+  "keywords": [
+    "api",
+    "auth",
+    "git",
+    "gitee",
+    "oauth"
+  ],
+  "homepage": "https://github.com/bluelovers/gitee-api-token#readme",
+  "bugs": {
+    "url": "https://github.com/bluelovers/gitee-api-token/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluelovers/gitee-api-token.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "client-oauth2": "^4.2.1"
+  }
+}
